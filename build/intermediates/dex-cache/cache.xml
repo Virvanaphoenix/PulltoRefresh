@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\fresh\app\libs\Ad_Android_SDK.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d5820d649565193e93bb9c1e46df19ab4e2d3e6">
+        <dex dex="E:\fresh\app\build\intermediates\pre-dexed\debug\Ad_Android_SDK-c3a2fe929054cef71fca82742294ee883eb662c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\sks\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\fresh\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e065e5521f2bf0ac510c9895d5f10275e406fe46.jar" />
+    </item>
+
+</items>
